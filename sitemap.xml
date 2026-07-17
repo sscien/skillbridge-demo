@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://skill-bridge-beta-one.vercel.app/</loc>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://skill-bridge-beta-one.vercel.app/verify/</loc>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://skill-bridge-beta-one.vercel.app/terms/</loc>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://skill-bridge-beta-one.vercel.app/privacy/</loc>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://skill-bridge-beta-one.vercel.app/login/</loc>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://skill-bridge-beta-one.vercel.app/signup/</loc>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+</urlset>
